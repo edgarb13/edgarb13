@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Edgar 👋
 
-<!--
-**edgarb13/edgarb13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior full stack JavaScript developer in progress, focused on building real-world applications using modern web technologies.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- React (learning)
+- Node.js (learning)
+- MongoDB (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Learning & Training
+- Full Stack Open (University of Helsinki)
+- The Odin Project (Full Stack JavaScript)
+- freeCodeCamp — JavaScript Algorithms & Web Development
+- Udemy — Modern JavaScript & Full Stack courses
+
+## 🌎 Goal
+Get a remote full stack developer role with a U.S.-based company.
+
+## 📫 Contact
+- GitHub: https://github.com/edgarb13
